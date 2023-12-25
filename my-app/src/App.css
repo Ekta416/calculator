@@ -1,0 +1,44 @@
+body{
+  margin-left:500px;
+  margin-top:160px;
+  background-repeat: no-repeat;
+  background: url("https://i0.wp.com/picjumbo.com/wp-content/uploads/camping-on-top-of-the-mountain-during-sunset-free-photo.jpg?w=600&quality=80");
+  background-size: cover;
+}
+.m-1{
+  width:40px;
+  height:40px;
+  background:#fff;
+  border-radius: 20px;
+  box-shadow:  5px 5px 2px #dddd;
+  font-weight: bold;
+
+}
+.m-1:hover{
+    background-color: bisque;
+    width: 30px;
+    height: 30px;
+}
+.m-2{
+  width:180px;
+  height:50px;
+  background:#fff;
+  text-align:right;
+  border-radius: 5px;
+  border: none;
+}
+.m-3{
+  width:300px;
+  height:350px;
+  background:transparent;
+  border:1px solid white;
+  padding: 25px 50px;
+  border-radius: 20px;
+  box-shadow: 2px 8px 15px 2px rgba(0, 24, 64,0.8);
+  
+ 
+}
+h2{
+
+text-shadow: 2px 2px;
+}
